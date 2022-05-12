@@ -1,1 +1,29 @@
+body {
+    background-color: rgb(42, 42, 43);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+h1, h2, h3 {
+    color: lightskyblue;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+h2, h3 {
+    margin-left: 40px;
+}
+
+p {
+    margin-left: 50px;
+}
+
+li {
+    margin-left: 30px;
+}
+
+a {
+    color: hotpink;
+}
